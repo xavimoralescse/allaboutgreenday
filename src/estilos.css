@@ -1,0 +1,56 @@
+.Contenedor
+{
+    background-color: #939090;
+    display: flex;
+    margin: 60px;
+}
+
+.contenedor2
+{
+    display: flex;
+}
+.Portada
+{
+    height: 400px;
+}
+
+.NombreAlbum
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: left;
+    margin-left: 90px;
+    color: white;
+}
+
+.Detalles
+{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: white;
+}
+
+.year
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.rocooo
+{
+    grid-auto-columns: auto;
+}
+
+.containersdeverga
+{
+    position: relative;
+    top: 100px;
+    right: 190px;
+}
